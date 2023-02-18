@@ -4,4 +4,4 @@ print(f'el primer numero es {numero1}')
 print(f'el segundo numero es {numero2}')
 
 suma = numero1 + numero2
-print(f'La suma de los números es: {suma}')
+print(f'La suma de los números es {suma}')
