@@ -11,7 +11,7 @@ Proyecto que busca mostrar ejemplos de lógica con condicionales, ciclos y estru
 
 ### Programado por :
 
-*Sofia Chamorro**
+**Sofia Chamorro**
 
 ### Ejecutar:
 
